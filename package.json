@@ -4,8 +4,8 @@
    "description": "Malina esbuild template",
    "main": "index.js",
    "scripts": {
-      "dev": "node index --dev",
-      "build": "node index"
+      "dev": "node node_modules/malinajs-esbuild --dev",
+      "build": "node node_modules/malinajs-esbuild index"
    },
    "repository": {
       "type": "git",
