@@ -1,2 +1,3 @@
-# malinajs-esbuild-template
-Boilerplate for basic Malina App with Esbuild
+# MalinaJS Esbuild Template
+
+Boilerplate for basic MalinaJS Application with Esbuild
