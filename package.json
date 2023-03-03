@@ -19,6 +19,6 @@
    "homepage": "https://github.com/ulmzr/malinajs-esbuild-template#readme",
    "devDependencies": {
       "malinajs": "^0.6.64",
-      "malinajs-esbuild": "^1.0.0"
+      "malinajs-esbuild": "^1.0.1"
    }
 }
