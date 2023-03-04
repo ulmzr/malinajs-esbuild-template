@@ -1,2 +1,2 @@
-import App from './App.xht';
+import App from "./App.xht";
 App(document.body);
